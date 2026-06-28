@@ -110,4 +110,4 @@ The goal was to research and organize **18 verified volunteer opportunities, int
 
 ---
 
-*Submitted for InAmigos Foundation — Task 3 | Volunteer Opportunity Data Compilation
+Submitted for InAmigos Foundation — Task 3 | Volunteer Opportunity Data Compilation
