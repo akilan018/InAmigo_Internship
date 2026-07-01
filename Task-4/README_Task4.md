@@ -9,7 +9,7 @@ This project was completed as **Task 4** of the **InAmigos Foundation** internsh
 
 The objective was to identify key features that an NGO website should have and present them visually as a design layout — similar to a Figma prototype — with labels and notes explaining each feature's purpose and importance.
 
-> **Tool Used:** HTML + CSS (Figma-equivalent design, exported to PDF)
+> **Tool Used:Figma,exported to PDF)
 > **Output:** 11-page visual design document
 
 ---
@@ -166,4 +166,3 @@ Based on this design research, here are the top 3 features to implement first on
 ---
 
 *Submitted for InAmigos Foundation — Task 4: NGO Website Feature Highlight*
-*Designed & Compiled by: Akilan · K.L.N College of Engineering · June 2025*
