@@ -142,4 +142,3 @@ Based on this design research, here are the highest-impact features to implement
 ---
 
 *Submitted for InAmigos Foundation — Task 4: NGO Website Feature Highlight*
-*Designed by: Akilan · K.L.N College of Engineering · June 2025*
